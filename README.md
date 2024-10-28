@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Dharanidharan2813/me/tree/master/0168-excel-sheet-column-title) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Backtracking
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/Dharanidharan2813/me/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
