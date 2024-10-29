@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharanidharan2813/me/tree/master/0001-two-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dharanidharan2813/me/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
