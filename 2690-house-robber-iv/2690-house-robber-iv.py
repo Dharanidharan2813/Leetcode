@@ -1,22 +1,22 @@
 class Solution:
-    def minCapability(self, a: List[int], k: int) -> int:
-        def check(cap, q=0):
+    def minCapability(self, nums: List[int], k: int) -> int:
+        def fun(mid, s=0):
             count = 0
-            for v in a:
-                if q == 0 and v <= cap:
+            for v in nums:
+                if s == 0 and v <= mid:
                     count += 1
-                    q = True 
+                    s = True 
                 else:
-                    q = False 
+                    s = False 
             return count >= k
-        minCap =0 
-        maxCap = max(a)
-        result = maxCap
-        while minCap <= maxCap:
-            cap = minCap + (maxCap - minCap)//2
-            if check(cap):
-                result = cap
-                maxCap = cap - 1
+        start =0 
+        end = max(nums)
+        result = end
+        while start <= end:
+            mid = start + (end - start)//2
+            if fun(mid):
+                result = mid
+                end = mid - 1
             else:
-                minCap = cap + 1
+                start = mid + 1
         return result
