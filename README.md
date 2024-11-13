@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dharanidharan2813/me/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharanidharan2813/me/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Dharanidharan2813/me/tree/master/0027-remove-element) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Dharanidharan2813/me/tree/master/0119-pascals-triangle-ii) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dharanidharan2813/me/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharanidharan2813/me/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Dharanidharan2813/me/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Dharanidharan2813/me/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
 ## Math
