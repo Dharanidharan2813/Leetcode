@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharanidharan2813/me/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharanidharan2813/me/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dharanidharan2813/me/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2690-house-robber-iv](https://github.com/Dharanidharan2813/me/tree/master/2690-house-robber-iv) |
 ## Two Pointers
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 <!---LeetCode Topics End-->
