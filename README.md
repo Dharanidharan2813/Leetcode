@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharanidharan2813/me/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0168-excel-sheet-column-title](https://github.com/Dharanidharan2813/me/tree/master/0168-excel-sheet-column-title) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharanidharan2813/me/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2690-house-robber-iv](https://github.com/Dharanidharan2813/me/tree/master/2690-house-robber-iv) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Tree
 |  |
 | ------- |
