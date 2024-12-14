@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dharanidharan2813/me/tree/master/0232-implement-queue-using-stacks) |
 | [2868-continuous-subarrays](https://github.com/Dharanidharan2813/me/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Dharanidharan2813/me/tree/master/2868-continuous-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dharanidharan2813/me/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Dharanidharan2813/me/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
