@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dharanidharan2813/me/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dharanidharan2813/me/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Depth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
