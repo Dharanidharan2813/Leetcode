@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Dharanidharan2813/me/tree/master/0168-excel-sheet-column-title) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dharanidharan2813/me/tree/master/2300-construct-string-with-repeat-limit) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dharanidharan2813/me/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2690-house-robber-iv](https://github.com/Dharanidharan2813/me/tree/master/2690-house-robber-iv) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Dharanidharan2813/me/tree/master/2868-continuous-subarrays) |
 ## Two Pointers
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dharanidharan2813/me/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
