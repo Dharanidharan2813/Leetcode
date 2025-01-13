@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharanidharan2813/me/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Dharanidharan2813/me/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dharanidharan2813/me/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Dharanidharan2813/me/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dharanidharan2813/me/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2690-house-robber-iv](https://github.com/Dharanidharan2813/me/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dharanidharan2813/me/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Dharanidharan2813/me/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Dharanidharan2813/me/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Tree
