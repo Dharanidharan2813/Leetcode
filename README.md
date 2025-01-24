@@ -191,15 +191,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dharanidharan2813/me/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Dharanidharan2813/me/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Dharanidharan2813/me/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Dharanidharan2813/me/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Dharanidharan2813/me/tree/master/0820-find-eventual-safe-states) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Dharanidharan2813/me/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
+## Graph
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Dharanidharan2813/me/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Dharanidharan2813/me/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
