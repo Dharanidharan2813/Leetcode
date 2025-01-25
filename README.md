@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Dharanidharan2813/me/tree/master/2868-continuous-subarrays) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharanidharan2813/me/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharanidharan2813/me/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
 | ------- |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Dharanidharan2813/me/tree/master/0820-find-eventual-safe-states) |
+## Union Find
+|  |
+| ------- |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharanidharan2813/me/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
