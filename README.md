@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dharanidharan2813/me/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2350-find-closest-number-to-zero](https://github.com/Dharanidharan2813/me/tree/master/2350-find-closest-number-to-zero) |
 | [2690-house-robber-iv](https://github.com/Dharanidharan2813/me/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Dharanidharan2813/me/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
