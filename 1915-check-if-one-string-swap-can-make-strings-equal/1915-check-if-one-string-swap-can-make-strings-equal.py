@@ -1,8 +1,11 @@
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
-        if s1 == s2:
-            return True
-        diffs = [(i, s1[i], s2[i]) for i in range(len(s1)) if s1[i] != s2[i]]
-        if len(diffs) != 2:
-            return False
-        return (diffs[0][1], diffs[1][1]) == (diffs[1][2], diffs[0][2])
+        c=0
+        v=set()
+        f=set()
+        for i in range(len(s1)):
+            if s1[i]!=s2[i]:
+                c+=1
+                v.add(s1[i])
+                f.add(s2[i])
+        return (c==2 and len(v)==2 and v==f) or c==0
