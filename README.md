@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dharanidharan2813/me/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Dharanidharan2813/me/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Dharanidharan2813/me/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/Dharanidharan2813/me/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Dharanidharan2813/me/tree/master/0258-add-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Dharanidharan2813/me/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3447-clear-digits](https://github.com/Dharanidharan2813/me/tree/master/3447-clear-digits) |
 ## Queue
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharanidharan2813/me/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Dharanidharan2813/me/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
