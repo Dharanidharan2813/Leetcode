@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharanidharan2813/me/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dharanidharan2813/me/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharanidharan2813/me/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Dharanidharan2813/me/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Dharanidharan2813/me/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Dharanidharan2813/me/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharanidharan2813/me/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Dharanidharan2813/me/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/Dharanidharan2813/me/tree/master/0713-subarray-product-less-than-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dharanidharan2813/me/tree/master/0780-max-chunks-to-make-sorted) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dharanidharan2813/me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dharanidharan2813/me/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Dharanidharan2813/me/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dharanidharan2813/me/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Dharanidharan2813/me/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharanidharan2813/me/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharanidharan2813/me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Dharanidharan2813/me/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharanidharan2813/me/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Dharanidharan2813/me/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Dharanidharan2813/me/tree/master/1217-relative-sort-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dharanidharan2813/me/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
